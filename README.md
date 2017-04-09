@@ -125,7 +125,9 @@ $ git merge <other_branch_name>
 # si te equivocas al fusionar ramas que no querías, puedes cancelar la fusión.
 $ git merge --abort
 
-# no siempre será posible que Git fusione automáticamente todos los cambios causando conflictos. Eres responsable de fusionar esos conflictos manualmente al editar los archivos mostrados por Git. Después de modificarlos, necesitas añadirlos como fusionados con:
+# no siempre será posible que Git fusione automáticamente todos los cambios causando conflictos. 
+# eres responsable de fusionar esos conflictos manualmente al editar los archivos mostrados por Git. 
+# después de modificarlos, necesitas añadirlos como fusionados con:
 $ git add <file_name>
 
 # antes de fusionar los cambios, revisarlos.
