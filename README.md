@@ -1,6 +1,6 @@
 <img
   src="https://git-scm.com/images/logos/logomark-orange@2x.png"
-  width="50"
+  width="70"
   align="left"
 />
 
